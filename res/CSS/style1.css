@@ -1,0 +1,16 @@
+body
+{
+	
+}
+.c
+{
+	border:10px solid #666666;
+	-moz-border-radius:50px;
+	-webkit-border-radius:50px;
+	border-radius:50px;
+}
+#head
+{
+	color:#DFFAF9;
+	font-size:30px;
+}
